@@ -9,10 +9,7 @@ Airbnb is an online marketplace that connects people who want to rent out their 
 # Tools Used 🔨
 <b>1. Python 🐍</b> 
 
-# Conclusion 🔚
-We have successfully performed Exploratory Data Analysis on Airbnb NYC Listings 2019 Dataset. The Airbnb dataset for 2019, known as 'AB_NYC_2019', appears to be quite comprehensive, offering a diverse range of columns that enable thorough exploration and analysis of each significant aspect it presents.
-
-<b> During this EDA, I addressed the below questions : </b> 
+# <b> During this EDA, I addressed the below questions : </b> 
 1. What are the top 10 host IDs with the highest number of bookings?
 2.  What are the top 10 host Names with the highest number of bookings?
 3.  What types of rooms does the host with the highest number of bookings offer, and what is the price range for these rooms?
@@ -26,3 +23,6 @@ We have successfully performed Exploratory Data Analysis on Airbnb NYC Listings 
 11.  What are the top 10 number of days on which highest number of bookings were done?
 12.  What is the average number of reviews for each room type?
 13.  Which Neighbourhood group got the highest number of reviews?
+
+# Conclusion 🔚
+We have successfully performed Exploratory Data Analysis on Airbnb NYC Listings 2019 Dataset. The Airbnb dataset for 2019, known as 'AB_NYC_2019', appears to be quite comprehensive, offering a diverse range of columns that enable thorough exploration and analysis of each significant aspect it presents.
