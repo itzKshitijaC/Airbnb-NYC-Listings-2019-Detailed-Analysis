@@ -9,7 +9,7 @@ Airbnb is an online marketplace that connects people who want to rent out their 
 # Tools Used 🔨
 <b>1. Python 🐍</b> 
 
-# Dataset 
+# Dataset 🔤
 [Download Dataset from here](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data)
 
 - Dataset contains 48895 Rows and 16 columns
@@ -29,5 +29,4 @@ Airbnb is an online marketplace that connects people who want to rent out their 
 12.  What is the average number of reviews for each room type?
 13.  Which Neighbourhood group got the highest number of reviews?
 
-# Conclusion 🔚
-We have successfully performed Exploratory Data Analysis on Airbnb NYC Listings 2019 Dataset. The Airbnb dataset for 2019, known as 'AB_NYC_2019', appears to be quite comprehensive, offering a diverse range of columns that enable thorough exploration and analysis of each significant aspect it presents.
+# Summary of Findings 📉
