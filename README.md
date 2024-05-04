@@ -9,6 +9,11 @@ Airbnb is an online marketplace that connects people who want to rent out their 
 # Tools Used 🔨
 <b>1. Python 🐍</b> 
 
+# Dataset 
+[Download Dataset from here](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data)
+
+- Dataset contains 48895 Rows and 16 columns
+
 # <b> During this EDA, I addressed the below questions : </b> 
 1. What are the top 10 host IDs with the highest number of bookings?
 2.  What are the top 10 host Names with the highest number of bookings?
