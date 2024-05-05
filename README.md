@@ -15,7 +15,7 @@ Airbnb is an online marketplace that connects people who want to rent out their 
 - Dataset contains 48895 Rows and 16 columns
 
 # <b> During this EDA, I addressed the below questions : </b> 
-1. What are the top 10 host IDs with the highest number of bookings?
+1.  What are the top 10 host IDs with the highest number of bookings?
 2.  What are the top 10 host Names with the highest number of bookings?
 3.  What types of rooms does the host with the highest number of bookings offer, and what is the price range for these rooms?
 4.  What types of rooms does the host with the second highest number of bookings offer, and what is the price range for these rooms?
@@ -29,4 +29,5 @@ Airbnb is an online marketplace that connects people who want to rent out their 
 12.  What is the average number of reviews for each room type?
 13.  Which Neighbourhood group got the highest number of reviews?
 
-# Summary of Findings 📉
+# Conclusion 🙂
+
