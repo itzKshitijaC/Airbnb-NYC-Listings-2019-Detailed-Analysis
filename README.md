@@ -35,9 +35,9 @@ Airbnb is an online marketplace that connects people who want to rent out their 
 - Michael, the host with the highest number of bookings, offers all room types, including Private rooms, Entire home/apts, and Shared rooms. Specifically, he has 251 Entire home/apts, 152 private rooms, and 14 Shared rooms. The price range for these accommodations is between 25 and 1700 dollars.
 - David, the host with the second-highest number of bookings, provides all types of rooms, including Private rooms, Entire home/apts, and Shared rooms. Specifically, he offers 214 Entire home/apts, 184 private rooms, and 5 Shared rooms. The price range for these accommodations falls between $25 and $2000.
 - An observation reveals that among all the neighborhood groups, the Manhattan group has the highest number of bookings, totaling 21,661, which constitutes 44.3% of all bookings across all groups, followed by Brooklyn which ranks as the second-highest neighborhood group with a total of 20,104 bookings, covering 41% of all bookings.Staten Island is the neighbourhood group with the least number of bookings which constitutes only 0.76% of all the bookings.'
-- we can observe that Manhattan has the highest range of prices for the listings with 150 price as median observation, followed by Brooklyn with 90 per night.
-- Bronx is the cheapest of them all.
+- Observation says that Manhattan has the highest range of prices for the listings with 150 price as median observation, followed by Brooklyn with 90 per night.
+- Bronx Neighbourhood is the cheapest among all the neighbourhoods.
 - The Williamsburg neighborhood has the highest number of bookings, totaling 3,920, which constitutes 80% of all bookings.
 -  Entire home/apt has the highest number of bookings, accounting for 52% of the total bookings, with a total of 25,409 bookings. Private room follows closely behind with a total of 22,326 bookings, covering 46% of the total bookings. Shared rooms have the least number of bookings.
--  Private rooms got more reviews
+-  Surprisingly, Private rooms got more reviews than Entire Home/apt. 
 -  The Manhattan neighborhood group received the highest number of reviews, followed by Brooklyn with a total of 20,104 reviews.
